@@ -88,7 +88,9 @@ Here are some ideas to get you started:
 
 
 ## Github Stats  
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=rylinwolf&show_icons=true&count_private=true&hide_border=true" align="center" />  
+</div>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rylinwolf&hide_border=true&layout=compact" align="center" /></div>  
 
